@@ -1,0 +1,19 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{节标题}{3}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{列表环境}{4}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{定理与区块}{5}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{插入图片}{8}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{插入表格}{9}{0}{5}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {6}{风格主题的选择}{10}{0}{6}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {7}{参考文献}{12}{0}{7}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {9}{动态演示}{14}{0}{8}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {10}{插入视频、音频}{34}{0}{9}
